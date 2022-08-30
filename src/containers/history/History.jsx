@@ -16,7 +16,7 @@ const History = () => {
 					Sie Ihren Westernsattel wieder neu anpassen.Alle LUXARY Sättel werden
 					individuell gefertigt - per Hand in Deutschland
 				</p>
-				<h4>Request Early Access to Get Started</h4>
+				<h4>Preisliste runter laden</h4>
 			</div>
 		</div>
 	)
