@@ -1,0 +1,20 @@
+@media (min-width: 1024px) {
+	.sm\:grid-cols-2 {
+		grid-template-columns: repeat(2, minmax(0, 1fr))
+	}
+}
+
+.text-500{
+	color:#F0F8FF;
+}
+
+.sm\:text-2xl{
+	color: #042C54;
+}
+
+.sm\:text-5xl {
+	background: var(--gradient-text);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
