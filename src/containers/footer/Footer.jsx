@@ -36,7 +36,7 @@ const Footer = () => {
 					<h4>Kontakt</h4>
 					<p>Crechterwoord K12 182 DK Alknjkcb</p>
 					<p>085-132567</p>
-					<p>info@payme.net</p>
+					<p>info@westernsattel.de</p>
 				</div>
 			</div>
 			<div className='westernsattel__footer-copyright'>

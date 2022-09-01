@@ -5,7 +5,7 @@
 }
 
 .text-500{
-	color:#F0F8FF;
+	color: var(--color-subtext);
 }
 
 .sm\:text-2xl{
@@ -13,7 +13,7 @@
 }
 
 .sm\:text-5xl {
-	background: var(--gradient-text);
+	background: #bc331a;
 	background-clip: text;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;

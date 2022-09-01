@@ -5,7 +5,7 @@ import './about.css'
 
 const About = () => {
 	return (
-		<div className='westernsattel__about section__margin' id='about'>
+		<div className='westernsattel__about section__margin' id='über-uns'>
 			<div className='westernsattel__about-feature'>
 				<Feature
 					title='Über uns'

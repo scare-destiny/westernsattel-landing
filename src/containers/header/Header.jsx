@@ -17,10 +17,6 @@ const Header = () => {
 					<input type='email' placeholder='Trage hier desine beste E-Mail Adresse ein...'></input>
 					<button type='button'>Preisliste laden</button>
 				</div>
-				{/* <div className="gtp3__header-content__people">
-          <img alt="people" />
-          <p>1,600 people requested access a visit in last 24 hours</p>
-        </div> */}
 			</div>
 			<div className='westernsattel__header-image'>
 				<img src={hero} alt='running horses' />

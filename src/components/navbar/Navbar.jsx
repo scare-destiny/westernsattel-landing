@@ -14,13 +14,10 @@ const Menu = () => {
         <a href="#über-uns">Über uns</a>
       </p>
       <p>
-        <a href="#possibility">Geschichte</a>
+        <a href="#geschichte">Geschichte</a>
       </p>
       <p>
-        <a href="#features">Team</a>
-      </p>
-      <p>
-        <a href="#blog">Referenzen</a>
+        <a href="#referenzen">Referenzen</a>
       </p>
     </>
   );

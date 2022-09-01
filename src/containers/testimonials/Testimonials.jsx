@@ -2,7 +2,7 @@ import './testimonials.css'
 
 const Testimonials = () => {
 	return (
-		<section class='bg'>
+		<section class='bg' id='referenzen'>
 			<div class='px-4 py-16 mx-auto max-w-screen-2xl sm:px-6 lg:px-8'>
 				<div class='items-end justify-between sm:flex'>
 					<div class='max-w-xl'>

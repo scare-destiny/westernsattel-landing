@@ -33,11 +33,11 @@
 	/* identical to box height, or 188% */
 
 
-	color:#F3F4F6;
+	color: var(--color-text)
 }
 
 .westernsattel__possibility-content h4:last-child {
-	color: rgba(188,51,26,1);
+	color: rgba(188, 51, 26, 1);
 	cursor: pointer;
 }
 
@@ -50,7 +50,7 @@
 	/* or 132% */
 
 
-	background: var(--gradient-text);
+	background: #bc331a;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
@@ -62,7 +62,7 @@
 	font-size: 16px;
 	line-height: 30px;
 	/* or 188% */
-	color: #FFFFFF;
+	color: var(--color-text);
 	margin-bottom: 2rem;
 }
 
