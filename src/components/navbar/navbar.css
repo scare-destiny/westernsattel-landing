@@ -35,7 +35,8 @@
 
 .westernsattel__navbar-links_container p,
 .westernsattel__navbar-sign p,
-.westernsattel__navbar-menu_container p {
+.westernsattel__navbar-menu_container p,
+.westernsattel__navbar-menu_container a {
 	color: #fff;
 	font-family: var(--font-family);
 	font-weight: 500;

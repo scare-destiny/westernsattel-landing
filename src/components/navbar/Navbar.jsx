@@ -42,13 +42,13 @@ const Navbar = () => {
       <div className="westernsattel__navbar-menu">
         {toggleMenu ? (
           <RiCloseLine
-            color="#fff"
+            color="#031b34"
             size={27}
             onClick={() => setToggleMenu(false)}
           />
         ) : (
           <RiMenu3Line
-            color="#fff"
+            color="#031b34"
             size={27}
             onClick={() => setToggleMenu(true)}
           />
