@@ -100,6 +100,9 @@
 	.westernsattel__header-content {
 		margin: 0 0 3rem;
 	}
+	.westernsattel__header-image img  {
+		min-width: 100vw;
+	}
 }
 
 @media screen and (max-width: 650px) {
@@ -118,6 +121,7 @@
 	.westernsattel__header-content__input button {
 		font-size: 16px;
 		line-height: 24px;
+		border-radius: 0px;
 	}
 }
 

@@ -26,18 +26,6 @@ const Footer = () => {
 					<p>Counters</p>
 					<p>Contact</p>
 				</div>
-				<div className='westernsattel__footer-links_div'>
-					<h4>Company</h4>
-					<p>Terms & Conditions</p>
-					<p>Privacy Policy</p>
-					<p>Contact</p>
-				</div>
-				<div className='westernsattel__footer-links_div'>
-					<h4>Kontakt</h4>
-					<p>Crechterwoord K12 182 DK Alknjkcb</p>
-					<p>085-132567</p>
-					<p>info@westernsattel.de</p>
-				</div>
 			</div>
 			<div className='westernsattel__footer-copyright'>
 				<p>© 2022 J. v. G. Saddle Innovations UG (Haftungsbeschränkt. All Rights Reserved</p>

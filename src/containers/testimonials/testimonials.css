@@ -13,6 +13,7 @@
 }
 
 .sm\:text-5xl {
+	text-align: center;
 	background: #bc331a;
 	background-clip: text;
 	-webkit-background-clip: text;

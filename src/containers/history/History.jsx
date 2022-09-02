@@ -4,7 +4,7 @@ import historyImage from '../../assets/history-image.webp'
 
 const History = () => {
 	return (
-		<div className='westernsattel__possibility section__padding' id='geschichte'>
+		<div className='westernsattel__possibility ' id='geschichte'>
 			<div className='westernsattel__possibility-image'>
 				<img src={historyImage} alt='possibility' />
 			</div>
