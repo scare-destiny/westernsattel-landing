@@ -1,7 +1,7 @@
 .westernsattel__possibility {
 	display: flex;
 	flex-direction: row;
-
+	padding: 0 4rem ;
 }
 
 .westernsattel__possibility-image {
