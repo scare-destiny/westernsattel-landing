@@ -30,7 +30,7 @@
 }
 
 @media screen and (max-width: 400px) {
-	img{
+	.marquee img{
 		min-height: 15vh;
 	}
 }
